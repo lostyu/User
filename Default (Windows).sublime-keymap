@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+alt+r"], "command": "reindent", "args": {"single_line": false} },
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+]

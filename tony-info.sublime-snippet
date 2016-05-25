@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/*
+ *title:        ${1:标题}
+ *description:  ${2:描述}
+ *author:    	Tony
+ *email:     	lostyu789@163.com
+ *date:      	${3:2015-11-05}
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css, source.js, text.html</scope>
+</snippet>

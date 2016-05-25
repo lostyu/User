@@ -1,0 +1,25 @@
+{
+	"bootstrapped": false,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Javascript Beautify",
+		"LESS",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SyncedSideBar",
+		"Terminal"
+	]
+}
