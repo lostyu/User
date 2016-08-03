@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/RailsCastsColorScheme (SL).tmTheme",
+	"auto_complete_selector": "source - comment",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
